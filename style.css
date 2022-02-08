@@ -1,0 +1,26 @@
+body{
+  background-image: url("bglove2.jpg");
+}
+.mainhead{
+  color: #EEEEEE;
+  text-align:center;
+  font-family: 'Lobster', cursive;
+}
+.journey{
+  color: #EEEEEE;
+  text-align:left;
+  font-family: 'Lobster', cursive;
+}
+.plan{
+  color: #EEEEEE;
+  text-align:left;
+  font-family: 'Lobster', cursive;
+}
+.introvideo{
+  height: 609px;
+}
+.song{
+  color: #EEEEEE;
+  text-align:left;
+  font-family: 'Lobster', cursive;
+}

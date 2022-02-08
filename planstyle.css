@@ -1,0 +1,43 @@
+body{
+  background-image: url("planbg.jpg");
+  background-size: cover;
+}
+.planhead{
+  color: white;
+  background-color: black;
+  text-align:left;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+h2{
+  color: white;
+  background-color: black;
+  text-align:left;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+.clue1{
+  color: white;
+  background-color: black;
+  text-align:left;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+.cluevid{
+  height: 490px;
+  padding-left: 40%;
+}
+.cluevid2{
+  height: 490px;
+  padding-left: 40%;
+}
+.gift{
+  color: white;
+  background-color: black;
+  text-align:left;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+p{
+  color: white;
+}

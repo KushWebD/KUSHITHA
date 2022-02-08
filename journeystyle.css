@@ -1,0 +1,81 @@
+body{
+  background-image: url("planbg.jpg");
+  background-size: cover;
+
+}
+h1{
+  color: #FAEEE7;
+
+}
+.disclaimer{
+  color: #FAEEE7;
+  background-color: black;
+  text-align:left;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+.intromusic{
+  height: 20px;
+
+}
+.feb9th{
+  color: #FAEEE7;
+  background-color:black;
+}
+.feb9thd{
+  color: #FAEEE7;
+  background-color:black;
+
+  font-family: 'Lobster', cursive;
+}
+.named{
+  color: #FAEEE7;
+  background-color:black;
+  font-family: 'Lobster', cursive;
+}
+h2{
+  color: #FAEEE7;
+  background-color: black;
+  text-align:left;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+.jouvid{
+  background-color: white;
+  font-family: 'Lobster', cursive;
+
+}
+.collagehead{
+  color: #FAEEE7;
+  background-color: black;
+  text-align:left;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+.collage1{
+  padding-left: 30%;
+}
+.jou{
+  height: 526px;
+}
+.one{
+      height: 526px;
+}
+.two{
+      height: 526px;
+}
+.three{
+      height: 526px;
+}
+.four{
+      height: 526px;
+}
+.five{
+      height: 526px;
+}
+.six{
+    height: 526px;
+}
+.seven{
+    height: 526px;
+}
